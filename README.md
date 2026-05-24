@@ -26,6 +26,4 @@
 - 原生 JavaScript
 - Document Picture-in-Picture API（需要 Chrome 116+）
 
-## 许可证
 
-MIT
